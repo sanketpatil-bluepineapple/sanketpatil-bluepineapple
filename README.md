@@ -6,7 +6,7 @@
 	<br>
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanket9006" alt="sanket9006" /> </p> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanketpatil-bluepineapple" alt="sanketpatil-bluepineapple" /> </p> 
  
 <br/>
 
